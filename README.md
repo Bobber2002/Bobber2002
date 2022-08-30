@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**Bobber2002/Bobber2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>✨A little about me . . . ✨</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const userObject = {
+  personalInformation: {
+    firstName: "Christoffer",
+    lastName: "Langkilde",
+    pronouns: "undefined",
+    age: 19,
+  },
+  askMeAbout: [
+    "webdev",
+    "tech",
+    "science",
+    "music", //Metal, speedcore, 80s, lo-fi
+  ],
+  technologies: {
+    frontend: {
+      js: ["react", "svelte"],
+      css: ["sass", "tailwind"],
+    },
+  },
+  experience: {
+    education: {
+      RoskildeTekniskeSkole: "Frontend-developer for 1 year 8 months",
+    },
+  },
+  wordsOfAcquaintances: {
+    humorous: "Likes to laugh and often makes often people do it too",
+    creative: "Solves problems in creative, and new, ways",
+    helpful: "Always willing to help others",
+    friendly: "Always greets people with a smile",
+    quickLearner:
+      "LOVES to learn new stuff and challenge themself, and often gets pulled into the work",
+  },
+};
