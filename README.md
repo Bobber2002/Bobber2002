@@ -8,7 +8,7 @@ const userObject = {
     firstName: "Christoffer",
     lastName: "Langkilde",
     pronouns: "undefined",
-    age: 19,
+    age: 21,
   },
   askMeAbout: [
     "webdev",
